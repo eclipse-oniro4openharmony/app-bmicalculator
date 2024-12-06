@@ -1,0 +1,37 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "BMI Calculator"
+    },
+    { "name":  "your_bmi_is",
+      "value": "Your BMI is %s"
+    },
+    { "name":  "height",
+      "value": "Height"
+    },
+    { "name":  "weight",
+      "value": "Weight"
+    },
+    { "name":  "calculate",
+      "value": "Calculate"
+    },
+    { "name": "enter_proper_values", "value": "Enter proper values!" },
+    { "name": "bmi_threshold_severe_thinness", "value": "Severe Thinness" },
+    { "name": "bmi_threshold_moderate_thinness", "value": "Moderate Thinness" },
+    { "name": "bmi_threshold_mild_thinness", "value": "MildThinness" },
+    { "name": "bmi_threshold_normal", "value": "Normal" },
+    { "name": "bmi_threshold_overweight", "value": "Overweight" },
+    { "name": "bmi_threshold_obese_i", "value": "Obese I" },
+    { "name": "bmi_threshold_obese_ii", "value": "Obese II" },
+    { "name": "bmi_threshold_obese_iii", "value": "Obese III" }
+  ]
+}
