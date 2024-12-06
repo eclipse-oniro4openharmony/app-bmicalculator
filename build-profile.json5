@@ -1,0 +1,48 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "material": {
+          "certpath": "C:/Users/s60067976/.ohos/config/openharmony/default_BmiCalculator_SL4f5hHCaG812rtF1lrnQ51xtnRB3BgkLaGU163nNiA=.cer",
+          "storePassword": "0000001A5F2EF3A15472DE579CB21C4C60752F2AC6AA5F0A42B423CCC5588B2F7C785F5F28A154CCC815",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001AE2AC6FFF21510C56141B7BD8F9FC65B90399E3516ED5CCA57CBC4525466FA123F339C2D064CF",
+          "profile": "C:/Users/s60067976/.ohos/config/openharmony/default_BmiCalculator_SL4f5hHCaG812rtF1lrnQ51xtnRB3BgkLaGU163nNiA=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:/Users/s60067976/.ohos/config/openharmony/default_BmiCalculator_SL4f5hHCaG812rtF1lrnQ51xtnRB3BgkLaGU163nNiA=.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
