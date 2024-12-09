@@ -14,6 +14,9 @@ This repository is under constant development/refactor since the project is desi
 - **Weight Status Classification**: Displays weight status based on the BMI value.
 - **Support for Metric Units**: Users can input height and weight in metric (centymeters, kilograms). Support for imperial units (feet, inches, pounds) will be provided in the future.
 
+## Screenshot 
+Here is a screenshot showing the main view of the application: ![Sceenshot](./app_screenshot.jpg)
+
 ## Usage
 
 1. Open the application.
