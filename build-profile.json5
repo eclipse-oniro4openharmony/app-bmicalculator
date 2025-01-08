@@ -5,9 +5,9 @@
         "name": "default",
         "material": {
           "certpath": "C:/Users/c84381641/.ohos/config/openharmony/default_app-bmicalculator_T7DvQg24LiNINnquXX99MeWqp6-fjm7T8ulFNnMQFeQ=.cer",
-          "storePassword": "0000001B51968EBC0A557D2A7237CD7A68F065084FD6316195D69CE0FE121B72C29C74FF74A9A52CD73669",
+          "storePassword": "000000193829A584C58A30A7EB8877753FBF07F4E00D52779B6CED8E58FBA369EE5DAEB4E9D69860F1",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001BB19E2BEED2B2227E5096CB89720E9B4BDA7AC4B8D4EB8ED020DDE0E602CF8D6DE423A0772BE6BE",
+          "keyPassword": "00000019B8897DCA2E5FB5DCCFC2FD7590DA27EEF854B2A4807B939948D2E862707EF57514A93BE9DB",
           "profile": "C:/Users/c84381641/.ohos/config/openharmony/default_app-bmicalculator_T7DvQg24LiNINnquXX99MeWqp6-fjm7T8ulFNnMQFeQ=.p7b",
           "signAlg": "SHA256withECDSA",
           "storeFile": "C:/Users/c84381641/.ohos/config/openharmony/default_app-bmicalculator_T7DvQg24LiNINnquXX99MeWqp6-fjm7T8ulFNnMQFeQ=.p12"
