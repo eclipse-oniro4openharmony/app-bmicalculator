@@ -4,6 +4,8 @@ declare global {
   }
 }
 
+let String;
+
 String.prototype.isNotEmpty = function() : boolean {
   return this && this.length >0;
 }

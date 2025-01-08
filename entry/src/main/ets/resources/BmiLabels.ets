@@ -1,4 +1,15 @@
-export const bmiLabels = {
+interface BmiLabels {
+  SevereThinness: string|Resource
+  ModerateThinness: string|Resource
+  MildThinness: string|Resource
+  Normal: string|Resource
+  Overweight: string|Resource
+  Obese_I: string|Resource
+  Obese_II: string|Resource
+  Obese_III: string|Resource
+}
+
+export const bmiLabels: BmiLabels = {
   SevereThinness: $r('app.string.bmi_threshold_severe_thinness'),
   ModerateThinness: $r('app.string.bmi_threshold_moderate_thinness'),
   MildThinness: $r('app.string.bmi_threshold_mild_thinness'),
