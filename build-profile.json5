@@ -4,13 +4,13 @@
       {
         "name": "default",
         "material": {
-          "certpath": "C:/Users/c84381641/.ohos/config/openharmony/default_app-bmicalculator_T7DvQg24LiNINnquXX99MeWqp6-fjm7T8ulFNnMQFeQ=.cer",
-          "storePassword": "000000193829A584C58A30A7EB8877753FBF07F4E00D52779B6CED8E58FBA369EE5DAEB4E9D69860F1",
+          "certpath": "./.secret/oniro-ci.cer",
+          "storePassword": "0000001BD5A16C997F0EF958596A946A060A50ED61DF4D945A74AB3C462CBCFBE5BA90427A3DEAC0D27D3E",
           "keyAlias": "debugKey",
-          "keyPassword": "00000019B8897DCA2E5FB5DCCFC2FD7590DA27EEF854B2A4807B939948D2E862707EF57514A93BE9DB",
-          "profile": "C:/Users/c84381641/.ohos/config/openharmony/default_app-bmicalculator_T7DvQg24LiNINnquXX99MeWqp6-fjm7T8ulFNnMQFeQ=.p7b",
+          "keyPassword": "0000001BACA49D623B16BE8A9C4C216A9ED64244F7255BC9AEF8C862264DDA900496AD36202857353771E8",
+          "profile": "./.secret/oniro-ci.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "C:/Users/c84381641/.ohos/config/openharmony/default_app-bmicalculator_T7DvQg24LiNINnquXX99MeWqp6-fjm7T8ulFNnMQFeQ=.p12"
+          "storeFile": "./.secret/oniro-ci.p12"
         }
       }
     ],
