@@ -1,7 +1,5 @@
 import { BmiThreshold, getBmiThreshold } from '../model/BmiThreshold'
 import { bmiLabels } from '../resources/BmiLabels'
-import string from '../StringExt';
-import promptAction from '@ohos.promptAction';
 
 @Component
 struct Field {
@@ -53,7 +51,7 @@ struct Index {
         this.resultVisible = true;
       }
     } else {
-      promptAction.showToast({
+      this.getUIContext().getPromptAction().showToast({
         message: "Can't calculate!"
       })
     }
